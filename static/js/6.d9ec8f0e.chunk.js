@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[6],{103:function(e,t,o){"use strict";o.r(t);var c=o(1);t.default=function(){return Object(c.jsx)("div",{children:Object(c.jsx)("h1",{children:"Welcome page"})})}}}]);
+//# sourceMappingURL=6.d9ec8f0e.chunk.js.map
